@@ -1,6 +1,6 @@
 var letters = []; // this is my stack
 
-var word = "golly"
+var word = window.prompt("What is your word?"); //User types this in the console
 
 var rword = "";
 
